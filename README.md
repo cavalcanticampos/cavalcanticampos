@@ -55,6 +55,6 @@
 
 <div> 
  
-  <!-- ![Snake animation](https://github.com/cavalcanticampos/cavalcanticampos/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/cavalcanticampos/cavalcanticampos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
