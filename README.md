@@ -44,7 +44,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
   <div>
-    <a href="https://github.com/AVS1508">
+    <a href="https://github.com/cavalcanticampos">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cavalcanticampos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
   </div>
